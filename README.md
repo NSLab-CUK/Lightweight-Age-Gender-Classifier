@@ -1,1 +1,3 @@
-# Lightweight-Age-Gender-Classifier
+# Lightweight Age and Gender Classifier for Retail Kiosk
+
+Contributors: 
